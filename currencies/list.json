@@ -1,0 +1,786 @@
+[
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/albania.png",
+    "countryName": "Albania",
+    "Currency": "Lek",
+    "code": "ALL",
+    "symbol": "Lek"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/afghanistan.png",
+    "countryName": "Afghanistan",
+    "Currency": "Afghani",
+    "code": "AFN",
+    "symbol": "؋"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/argentina.png",
+    "countryName": "Argentina",
+    "Currency": "Peso",
+    "code": "ARS",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/aruba.png",
+    "countryName": "Aruba",
+    "Currency": "Guilder",
+    "code": "AWG",
+    "symbol": "ƒ"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/australia.png",
+    "countryName": "Australia",
+    "Currency": "Dollar",
+    "code": "AUD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/azerbaijan.png",
+    "countryName": "Azerbaijan",
+    "Currency": "Manat",
+    "code": "AZN",
+    "symbol": "₼"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/bahamas.png",
+    "countryName": "Bahamas",
+    "Currency": "Dollar",
+    "code": "BSD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/barbados.png",
+    "countryName": "Barbados",
+    "Currency": "Dollar",
+    "code": "BBD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/belarus.png",
+    "countryName": "Belarus",
+    "Currency": "Ruble",
+    "code": "BYR",
+    "symbol": "p."
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/belize.png",
+    "countryName": "Belize",
+    "Currency": "Dollar",
+    "code": "BZD",
+    "symbol": "BZ$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/bermuda.png",
+    "countryName": "Bermuda",
+    "Currency": "Dollar",
+    "code": "BMD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/bolivia.png",
+    "countryName": "Bolivia",
+    "Currency": "Boliviano",
+    "code": "BOB",
+    "symbol": "$b"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/Bosnia_and_Herzegovina.png",
+    "countryName": "Bosnia and Herzegovina",
+    "Currency": "Convertible Marka",
+    "code": "BAM",
+    "symbol": "KM"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/botswana.png",
+    "countryName": "Botswana",
+    "Currency": "Pula",
+    "code": "BWP",
+    "symbol": "P"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/bulgaria.png",
+    "countryName": "Bulgaria",
+    "Currency": "Lev",
+    "code": "BGN",
+    "symbol": "лв"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/brazil.png",
+    "countryName": "Brazil",
+    "Currency": "Real",
+    "code": "BRL",
+    "symbol": "R$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/brunei.png",
+    "countryName": "Brunei",
+    "Currency": "Darussalam Dollar",
+    "code": "BND",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/cambodia.png",
+    "countryName": "Cambodia",
+    "Currency": "Riel",
+    "code": "KHR",
+    "symbol": "៛"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/canada.png",
+    "countryName": "Canada",
+    "Currency": "Dollar",
+    "code": "CAD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/Cayman_Islands.png",
+    "countryName": "Cayman",
+    "Currency": "Dollar",
+    "code": "KYD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/chile.png",
+    "countryName": "Chile",
+    "Currency": "Peso",
+    "code": "CLP",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/china.png",
+    "countryName": "China",
+    "Currency": "Yuan Renminbi",
+    "code": "CNY",
+    "symbol": "¥"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/colombia.png",
+    "countryName": "Colombia",
+    "Currency": "Peso",
+    "code": "COP",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/costarica.png",
+    "countryName": "Costa Rica",
+    "Currency": "Colon",
+    "code": "CRC",
+    "symbol": "₡"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/croatia.png",
+    "countryName": "Croatia",
+    "Currency": "Kuna",
+    "code": "HRK",
+    "symbol": "kn"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/cuba.png",
+    "countryName": "Cuba",
+    "Currency": "Peso",
+    "code": "CUP",
+    "symbol": "₱"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/czechrepublic.png",
+    "countryName": "Czech Republic",
+    "Currency": "Koruna",
+    "code": "CZK",
+    "symbol": "Kč"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/denmark.png",
+    "countryName": "Denmark",
+    "Currency": "Krone",
+    "code": "DKK",
+    "symbol": "kr"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/dominicanrepublic.png",
+    "countryName": "Dominican Republic",
+    "Currency": "Peso",
+    "code": "DOP",
+    "symbol": "RD$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/egypt.png",
+    "countryName": "Egypt",
+    "Currency": "Pound",
+    "code": "EGP",
+    "symbol": "£"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/elsalvador.png",
+    "countryName": "El Salvador",
+    "Currency": "Colon",
+    "code": "SVC",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/estonia.png",
+    "countryName": "Estonia",
+    "Currency": "Kroon",
+    "code": "EEK",
+    "symbol": "kr"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/euro.png",
+    "countryName": "Euro Member",
+    "Currency": "Euro",
+    "code": "EUR",
+    "symbol": "€"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/falklandislands.png",
+    "countryName": "Falkland Islands",
+    "Currency": "Pound",
+    "code": "FKP",
+    "symbol": "£"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/fiji.png",
+    "countryName": "Fiji",
+    "Currency": "Dollar",
+    "code": "FJD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/georgia.png",
+    "countryName": "Georgia",
+    "Currency": "Lari",
+    "code": "GEL",
+    "symbol": "₾"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/ghana.png",
+    "countryName": "Ghana",
+    "Currency": "Cedis",
+    "code": "GHC",
+    "symbol": "¢"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/gibraltar.png",
+    "countryName": "Gibraltar",
+    "Currency": "Pound",
+    "code": "GIP",
+    "symbol": "£"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/guatemala.png",
+    "countryName": "Guatemala",
+    "Currency": "Quetzal",
+    "code": "GTQ",
+    "symbol": "Q"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/guernsey.png",
+    "countryName": "Guernsey",
+    "Currency": "Pound",
+    "code": "GGP",
+    "symbol": "£"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/guyana.png",
+    "countryName": "Guyana",
+    "Currency": "Dollar",
+    "code": "GYD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/honduras.png",
+    "countryName": "Honduras",
+    "Currency": "Lempira",
+    "code": "HNL",
+    "symbol": "L"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/hongkong.png",
+    "countryName": "Hong Kong",
+    "Currency": "Dollar",
+    "code": "HKD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/hungary.png",
+    "countryName": "Hungary",
+    "Currency": "Forint",
+    "code": "HUF",
+    "symbol": "Ft"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/iceland.png",
+    "countryName": "Iceland",
+    "Currency": "Krona",
+    "code": "ISK",
+    "symbol": "kr"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/india.png",
+    "countryName": "India",
+    "Currency": "Rupee",
+    "code": "INR",
+    "symbol": "₹"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/indonesia.png",
+    "countryName": "Indonesia",
+    "Currency": "Rupiah",
+    "code": "IDR",
+    "symbol": "Rp"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/iran.png",
+    "countryName": "Iran",
+    "Currency": "Rial",
+    "code": "IRR",
+    "symbol": "﷼"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/isleofman.png",
+    "countryName": "Isle of Man",
+    "Currency": "Pound",
+    "code": "IMP",
+    "symbol": "£"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/israel.png",
+    "countryName": "Israel",
+    "Currency": "Shekel",
+    "code": "ILS",
+    "symbol": "₪"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/jamaica.png",
+    "countryName": "Jamaica",
+    "Currency": "Dollar",
+    "code": "JMD",
+    "symbol": "J$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/japan.png",
+    "countryName": "Japan",
+    "Currency": "Yen",
+    "code": "JPY",
+    "symbol": "¥"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/jersey.png",
+    "countryName": "Jersey",
+    "Currency": "Pound",
+    "code": "JEP",
+    "symbol": "£"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/kazakhstan.png",
+    "countryName": "Kazakhstan",
+    "Currency": "Tenge",
+    "code": "KZT",
+    "symbol": "лв"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/northkorea.png",
+    "countryName": "Korea (North)",
+    "Currency": "Won",
+    "code": "KPW",
+    "symbol": "₩"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/southkorea.png",
+    "countryName": "Korea (South)",
+    "Currency": "Won",
+    "code": "KRW",
+    "symbol": "₩"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/kyrgyzstan.png",
+    "countryName": "Kyrgyzstan",
+    "Currency": "Som",
+    "code": "KGS",
+    "symbol": "лв"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/laos.png",
+    "countryName": "Laos",
+    "Currency": "Kip",
+    "code": "LAK",
+    "symbol": "₭"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/latvia.png",
+    "countryName": "Latvia",
+    "Currency": "Lat",
+    "code": "LVL",
+    "symbol": "Ls"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/lebanon.png",
+    "countryName": "Lebanon",
+    "Currency": "Pound",
+    "code": "LBP",
+    "symbol": "£"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/liberia.png",
+    "countryName": "Liberia",
+    "Currency": "Dollar",
+    "code": "LRD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/lithuania.png",
+    "countryName": "Lithuania",
+    "Currency": "Litas",
+    "code": "LTL",
+    "symbol": "Lt"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/macedonia.png",
+    "countryName": "Macedonia",
+    "Currency": "Denar",
+    "code": "MKD",
+    "symbol": "ден"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/malaysia.png",
+    "countryName": "Malaysia",
+    "Currency": "Ringgit",
+    "code": "MYR",
+    "symbol": "RM"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/mauritius.png",
+    "countryName": "Mauritius",
+    "Currency": "Rupee",
+    "code": "MUR",
+    "symbol": "₨"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/mexico.png",
+    "countryName": "Mexico",
+    "Currency": "Peso",
+    "code": "MXN",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/mongolia.png",
+    "countryName": "Mongolia",
+    "Currency": "Tughrik",
+    "code": "MNT",
+    "symbol": "₮"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/mozambique.png",
+    "countryName": "Mozambique",
+    "Currency": "Metical",
+    "code": "MZN",
+    "symbol": "MT"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/namibia.png",
+    "countryName": "Namibia",
+    "Currency": "Dollar",
+    "code": "NAD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/nepal.png",
+    "countryName": "Nepal",
+    "Currency": "Rupee",
+    "code": "NPR",
+    "symbol": "₨"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/netherlands.png",
+    "countryName": "Netherlands",
+    "Currency": "Antilles Guilder",
+    "code": "ANG",
+    "symbol": "ƒ"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/newzealand.png",
+    "countryName": "New Zealand",
+    "Currency": "Dollar",
+    "code": "NZD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/nicaragua.png",
+    "countryName": "Nicaragua",
+    "Currency": "Cordoba",
+    "code": "NIO",
+    "symbol": "C$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/nigeria.png",
+    "countryName": "Nigeria",
+    "Currency": "Naira",
+    "code": "NGN",
+    "symbol": "₦"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/norway.png",
+    "countryName": "Norway",
+    "Currency": "Krone",
+    "code": "NOK",
+    "symbol": "kr"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/oman.png",
+    "countryName": "Oman",
+    "Currency": "Rial",
+    "code": "OMR",
+    "symbol": "﷼"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/pakistan.png",
+    "countryName": "Pakistan",
+    "Currency": "Rupee",
+    "code": "PKR",
+    "symbol": "₨"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/panama.png",
+    "countryName": "Panama",
+    "Currency": "Balboa",
+    "code": "PAB",
+    "symbol": "B/."
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/paraguay.png",
+    "countryName": "Paraguay",
+    "Currency": "Guarani",
+    "code": "PYG",
+    "symbol": "Gs"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/peru.png",
+    "countryName": "Peru",
+    "Currency": "Nuevo Sol",
+    "code": "PEN",
+    "symbol": "S/."
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/philippines.png",
+    "countryName": "Philippines",
+    "Currency": "Peso",
+    "code": "PHP",
+    "symbol": "₱"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/poland.png",
+    "countryName": "Poland",
+    "Currency": "Zloty",
+    "code": "PLN",
+    "symbol": "zł"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/qatar.png",
+    "countryName": "Qatar",
+    "Currency": "Riyal",
+    "code": "QAR",
+    "symbol": "﷼"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/romania.png",
+    "countryName": "Romania",
+    "Currency": "New Leu",
+    "code": "RON",
+    "symbol": "lei"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/russia.png",
+    "countryName": "Russia",
+    "Currency": "Ruble",
+    "code": "RUB",
+    "symbol": "₽"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/sainthelena.png",
+    "countryName": "Saint Helena",
+    "Currency": "Pound",
+    "code": "SHP",
+    "symbol": "£"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/saudiarabia.png",
+    "countryName": "Saudi Arabia",
+    "Currency": "Riyal",
+    "code": "SAR",
+    "symbol": "﷼"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/serbia.png",
+    "countryName": "Serbia",
+    "Currency": "Dinar",
+    "code": "RSD",
+    "symbol": "Дин."
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/seychelles.png",
+    "countryName": "Seychelles",
+    "Currency": "Rupee",
+    "code": "SCR",
+    "symbol": "₨"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/singapore.png",
+    "countryName": "Singapore",
+    "Currency": "Dollar",
+    "code": "SGD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/solomonislands.png",
+    "countryName": "Solomon Islands",
+    "Currency": "Dollar",
+    "code": "SBD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/somalia.png",
+    "countryName": "Somalia",
+    "Currency": "Shilling",
+    "code": "SOS",
+    "symbol": "S"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/southafrica.png",
+    "countryName": "South Africa",
+    "Currency": "Rand",
+    "code": "ZAR",
+    "symbol": "R"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/srilanka.png",
+    "countryName": "Sri Lanka",
+    "Currency": "Rupee",
+    "code": "LKR",
+    "symbol": "₨"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/sweden.png",
+    "countryName": "Sweden",
+    "Currency": "Krona",
+    "code": "SEK",
+    "symbol": "kr"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/switzerland.png",
+    "countryName": "Switzerland",
+    "Currency": "Franc",
+    "code": "CHF",
+    "symbol": "CHF"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/suriname.png",
+    "countryName": "Suriname",
+    "Currency": "Dollar",
+    "code": "SRD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/syria.png",
+    "countryName": "Syria",
+    "Currency": "Pound",
+    "code": "SYP",
+    "symbol": "£"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/taiwan.png",
+    "countryName": "Taiwan",
+    "Currency": "New Dollar",
+    "code": "TWD",
+    "symbol": "NT$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/thailand.png",
+    "countryName": "Thailand",
+    "Currency": "Baht",
+    "code": "THB",
+    "symbol": "฿"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/trinidadandtobago.png",
+    "countryName": "Trinidad and Tobago",
+    "Currency": "Dollar",
+    "code": "TTD",
+    "symbol": "TT$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/turkey.png",
+    "countryName": "Turkey",
+    "Currency": "Lira",
+    "code": "TRL",
+    "symbol": "₺"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/tuvalu.png",
+    "countryName": "Tuvalu",
+    "Currency": "Dollar",
+    "code": "TVD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/ukraine.png",
+    "countryName": "Ukraine",
+    "Currency": "Hryvna",
+    "code": "UAH",
+    "symbol": "₴"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/unitedkingdom.png",
+    "countryName": "United Kingdom",
+    "Currency": "Pound",
+    "code": "GBP",
+    "symbol": "£"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/unitedstates.png",
+    "countryName": "United States",
+    "Currency": "Dollar",
+    "code": "USD",
+    "symbol": "$"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/uruguay.png",
+    "countryName": "Uruguay",
+    "Currency": "Peso",
+    "code": "UYU",
+    "symbol": "$U"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/uzbekistan.png",
+    "countryName": "Uzbekistan",
+    "Currency": "Som",
+    "code": "UZS",
+    "symbol": "лв"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/venezuela.png",
+    "countryName": "Venezuela",
+    "Currency": "Bolivar Fuerte",
+    "code": "VEF",
+    "symbol": "Bs"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/vietnam.png",
+    "countryName": "Viet Nam",
+    "Currency": "Dong",
+    "code": "VND",
+    "symbol": "₫"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/yemen.png",
+    "countryName": "Yemen",
+    "Currency": "Rial",
+    "code": "YER",
+    "symbol": "﷼"
+  },
+  {
+    "flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/zimbabwe.png",
+    "countryName": "Zimbabwe",
+    "Currency": "Dollar",
+    "code": "ZWD",
+    "symbol": "Z$"
+  }
+]
