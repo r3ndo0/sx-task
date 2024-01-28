@@ -2,5 +2,5 @@
 export default defineNuxtConfig({
   devtools: { enabled: false },
 
-  modules: ["@nuxtjs/tailwindcss", "nuxt-headlessui",'@vueuse/nuxt'],
+  modules: ["@nuxtjs/tailwindcss", "nuxt-headlessui",'@vueuse/nuxt','@nuxt/image'],
 });

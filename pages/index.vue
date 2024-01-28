@@ -1,3 +1,3 @@
 <template>
-  <div class="text-slate-300">Hello World</div>
+  <div class="text-slate-400"><Home /></div>
 </template>
