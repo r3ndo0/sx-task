@@ -35,6 +35,7 @@
             :rate="c.rate"
             :country-name="c.countryName"
             :currency="c.currency"
+            :code="c.code"
           />
         </div>
       </div>

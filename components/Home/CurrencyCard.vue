@@ -1,10 +1,11 @@
 <template>
   <NuxtLink
-    to="/"
+    :to="`/currency/${code}`"
     class="border hover:border-amber-50 group ease-in-out hover:text-amber-50 duration-300 border-gray-600 rounded-[10px] p-2 gap-2 hover:cursor-pointer flex flex-col items-center"
   >
     <NuxtImg
       :src="flag"
+      loading="lazy"
       class="group-hover:opacity-100 opacity-70 ease-in-out duration-300"
     />
     <p>country : {{ countryName }}</p>
@@ -20,6 +21,7 @@ interface Props {
   currency: string;
   rate: number;
   symbol: string;
+  code: string;
 }
-const props = defineProps<Props>();
+defineProps<Props>();
 </script>
