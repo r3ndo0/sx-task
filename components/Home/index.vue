@@ -26,7 +26,7 @@
         ></div>
       </div>
       <div v-else class="p-4">
-        <div class="grid place-content-center grid-cols-3 gap-8">
+        <div class="grid place-content-center grid-cols-1 md:grid-cols-3 gap-8">
           <HomeCurrencyCard
             v-for="c in list"
             :key="c.currency"
@@ -45,9 +45,14 @@
 
 <script setup lang="ts">
 const searchInput = ref("");
+
+//Debounce the onChange Fetch
 const debounced = refDebounced(searchInput, 1000);
 
+//onChange Fetch
 const { data: list, pending } = await useCurrencyList(debounced);
+
+//Clear The Search Input
 const clearSearch = () => {
   searchInput.value = "";
 };

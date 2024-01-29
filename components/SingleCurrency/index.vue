@@ -11,12 +11,12 @@
       </div>
     </div>
     <div
-      class="border my-12 border-gray-600 rounded-[7px] m-auto max-w-[700px] p-12 flex flex-col gap-8"
+      class="border my-12 border-gray-600 rounded-[7px] m-auto max-w-[700px] p-3 md:p-12 flex flex-col gap-8"
     >
       <div :class="{ shake: shakeIrr }">
         <label class="text-gray-300">Rials</label>
         <input
-          class="p-3 bg-gray-600 w-full rounded-[4px] text-gray-300"
+          class="p-3 bg-gray-800 w-full rounded-[4px] text-gray-300"
           v-model="irr"
           type="number"
           @focus="irrFocused = true"
@@ -26,7 +26,7 @@
       <div>
         <label class="text-gray-300">{{ currency?.currency }}</label>
         <input
-          class="p-3 bg-gray-600 w-full rounded-[4px] text-gray-300"
+          class="p-3 bg-gray-800 w-full rounded-[4px] text-gray-300"
           v-model="targetCurrency"
           type="number"
           @focus="tCFocused = true"
@@ -50,11 +50,14 @@
 </template>
 
 <script setup lang="ts">
+//Getting The Route Params
 const route = useRoute();
+
+//Fetching The Currency Based On The Route Params
 const { data: currency, pending } = await useSingleCurrency(
   route.params.currency as string
 );
-
+//Just a Bunch Of Reactive Data
 const shakeIrr = ref(false);
 const modal = ref(false);
 const irr = ref<number>();
@@ -62,13 +65,19 @@ const irrFocused = ref(false);
 const tCFocused = ref(false);
 const targetCurrency = ref<number>();
 
+//Time Out To Apply The Dynamic Css Class For The Shake Animation
 const { isPending, start, stop } = useTimeoutFn(() => {
   shakeIrr.value = false;
 }, 1500);
+
+// OnValidationError For The Inputs
 function warnDisabled() {
   shakeIrr.value = true;
   start();
 }
+
+//Cutting Out The Valid Input (Only The Value With 4 Decimal Numbers Or Less)
+
 function cutOutDec(n: number | undefined) {
   if (!n) return;
   if (!n.toString().includes(".")) return n;
@@ -76,6 +85,8 @@ function cutOutDec(n: number | undefined) {
   const newValue = firstChunk + "." + secondChunk.slice(0, 4);
   return +newValue;
 }
+
+//Modal Opener Obviously
 const modalOpener = () => {
   if (!irr.value || irr.value < 1000) {
     warnDisabled();
@@ -84,6 +95,7 @@ const modalOpener = () => {
   modal.value = true;
 };
 
+//Syncing Two Refs *** Shout Out To Antony Fu For The Amazing VueUse ***
 const sync = syncRef(irr, targetCurrency, {
   transform: {
     ltr: (left) => +((left as number) * (currency.value?.rate ?? 1)).toFixed(4),
@@ -91,16 +103,23 @@ const sync = syncRef(irr, targetCurrency, {
       +((right as number) / (currency.value?.rate ?? 1)).toFixed(4),
   },
 });
+
+//Watching The Rial Input To CutOut The Extra Decimals
 watch(irr, (n) => {
   if (irrFocused) {
     irr.value = cutOutDec(n);
   }
 });
+
+//Watching The Target Currency Input To CutOut The Extra Decimals
+
 watch(targetCurrency, (n) => {
   if (tCFocused) {
     targetCurrency.value = cutOutDec(n);
   }
 });
+
+//Converting The Rial Input Value To Comma Separated Value For a Better UX
 const rialsConvertor = computed(
   () => irr.value?.toLocaleString("en-US") + " ریال"
 );
